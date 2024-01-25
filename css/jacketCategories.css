@@ -5,7 +5,10 @@
     display: none;
 }
 
-.info-part h2 {
+.info-part h1 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    text-align: center;
     font-weight: 300;
     margin: 2.5rem 3rem 1rem 3rem;
 }

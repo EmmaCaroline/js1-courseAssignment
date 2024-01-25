@@ -498,6 +498,10 @@ footer {
 
     /* JACKET CATEGORIES PAGES STYLING, DESKTOP */
 
+    .info-part h1 {
+        font-size: 1.75rem;
+    }
+
     .info-part .info-desk {
         display: block;
         color: #4A4A4A;
