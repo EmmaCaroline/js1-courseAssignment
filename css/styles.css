@@ -568,13 +568,6 @@ footer {
         margin-left: 0;
     }
 
-    /* ABOUT PAGE STYLING, DESKTOP */
-
-    .about-us-info,.about-us-text, .about-readmore {
-        margin-left: 16rem;
-        margin-right: 16rem;
-    }
-
     /* CHECKOUT PAGE STYLING, DESKTOP */
 
     .basketProduct-container {
@@ -603,6 +596,13 @@ footer {
     .personal-info, .payment-info, .delivery-options, .payment-options {
         padding-left: 18rem;
         padding-right: 18rem;
+    }
+
+    /* ABOUT PAGE STYLING, DESKTOP */
+
+    .about-us-info,.about-us-text, .about-readmore {
+        margin-left: 16rem;
+        margin-right: 16rem;
     }
 
     /* DOCUMENTS PAGES STYLING, DESKTOP */
