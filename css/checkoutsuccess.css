@@ -10,8 +10,7 @@
     font-family: var(--font-roboto);
     font-size: 0.7rem;
     color: var(--color-primary);
-    margin-bottom: 3rem;
-    margin-top: 3rem;
+    margin: 3rem;
 }
 
 .buttons button[type="buttonShopMore"] {

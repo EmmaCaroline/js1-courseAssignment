@@ -252,7 +252,6 @@ footer {
     font-family: var(--font-roboto);
     font-size: 0.7rem;
     font-weight: 400;
-    text-decoration: none;
     color: var(--color-secondary);
     text-align: center;
 }
@@ -306,19 +305,110 @@ footer {
         font-size: 1rem;
     }
 
+    h2 {
+        font-size: 1.5rem;
+    }
+
     /* HEADER AND HAMBURGER MENU, TABLET */
 
+    .material-symbols-outlined a {
+        font-size: 1.5rem;
+    }
 
+    .banner-text p {
+        font-size: 0.85rem;
+    }
+
+    /* BUTTON STYLING, TABLET */
+
+    button {
+        font-size: 1.1rem;
+        padding: 0.5rem 2.3rem;
+        border-radius: 0.6rem;
+        box-shadow: 0 0.2rem #0A3641;
+    }
+
+    /* FOOTER STYLING, TABLET */
+
+    .footer-navigation {
+        line-height: 4rem;
+    }
+
+    .footer-navigation a {
+        font-size: 1rem;
+    }
+
+    .followUs h2 {
+        font-size: 1rem;
+    }
+
+    .followUs .icons {
+        font-size: 1.5rem; 
+    }
+
+    .image {
+        width: 7rem;
+    }
+
+    /* INDEX/HOMEPAGE, MAIN CONTENT STYLING, TABLET */
+
+    .herobanner h1 {
+        font-size: 3.5rem;
+    }
+
+    .herobanner h2 {
+        top: 265px;
+    }
+
+    .herobanner button {
+        top: 22rem;
+    }
+
+    .product-img-container {
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+
+    .learn-more {
+        padding-bottom: 5rem;
+    }
+
+    .learn-more button {
+        bottom: 1rem;
+    }
+
+    /* JACKET CATEGORIES PAGES STYLING, TABLET */
+
+    .info-part h1 {
+        font-size: 1.4rem;
+    }
+
+    .shop-container {
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+
+    /* CHECKOUT PAGE STYLING, TABLET */
+
+    .basketProduct-container, .formContainer {
+        margin-left: 4rem;
+        margin-right: 4rem;
+    }
+
+    .summary-ship, .summary-total {
+        font-size: 1rem;
+    }
+
+    .summary-ship, .summary-total, .personal-info, .payment-info, .delivery-options, .payment-options {
+        padding-left: 8rem;
+        padding-right: 8rem;
+    }
 
 }
 
 @media screen and (min-width: 1026px) {
 
     /* RESET CHANGES, DESKTOP */
-
-    p {
-        font-size: 1rem; /* fjerne? */
-    }
 
     h2 {
         font-size: 1.75rem;
@@ -327,7 +417,6 @@ footer {
     /* HEADER, DESKTOP */
 
     .top-nav {
-        /*height: 7.375rem;*/
         padding: 0.6rem 3rem 0.6rem 3rem;
     }
 
@@ -341,7 +430,6 @@ footer {
     }
 
     .material-symbols-outlined a {
-        font-size: 1.5rem;
         padding: 1.3rem;
     }
 
@@ -396,15 +484,6 @@ footer {
         letter-spacing: 0.02em;
     }
 
-    /* BUTTON STYLING, DESKTOP */
-
-    button {
-        font-size: 1.1rem;
-        padding: 0.5rem 2.3rem;
-        border-radius: 0.6rem;
-        box-shadow: 0 0.2rem #0A3641;
-    }
-
     /* FOOTER STYLING, DESKTOP */
 
     .footer-navigation {
@@ -420,14 +499,6 @@ footer {
 
     .followUs {
         margin-bottom: 4rem;
-    }
-
-    .followUs h2 {
-        font-size: 1rem;
-    }
-    
-    .followUs .icons {
-        font-size: 1.5rem; 
     }
 
     .image {
@@ -592,14 +663,14 @@ footer {
     }
 
     .summary-ship, .summary-total {
-        margin-left: 18rem;
-        margin-right: 18rem;
+        margin-left: 16rem;
+        margin-right: 16rem;
         font-size: 1rem;
     }
 
     .personal-info, .payment-info, .delivery-options, .payment-options {
-        padding-left: 18rem;
-        padding-right: 18rem;
+        padding-left: 16rem;
+        padding-right: 16rem;
     }
 
     /* ABOUT PAGE STYLING, DESKTOP */
