@@ -1,12 +1,12 @@
 
 
 
-.product-info-section {
+.productImageAndText, .color-price, .productpage, .product-img-container2 {
     margin-left: 3rem;
     margin-right: 3rem;
 }
 
-.productpage-text {
+.product-info-section {
     font-size: 0.8rem;
     font-weight: 300;
     margin-top: 3rem;
@@ -15,7 +15,7 @@
     font-weight: 400;
 }
 
-.productpage-text h2 {
+.product-info-section h2 {
     text-align: left;
 }
 
@@ -24,6 +24,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 3rem;
 }
 
 .color-price {
@@ -39,8 +40,6 @@
     color: var(--color-primary);
     font-weight: 400;
     line-height: 1rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
 }
 
 .color-rainjacket {
@@ -57,8 +56,6 @@
     max-width: 100%;
     height: auto;
     object-fit: contain;
-    margin-left: 3rem;
-    margin-right: 3rem; 
 }
 
 .product-img-container2 img {

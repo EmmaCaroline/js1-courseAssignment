@@ -531,6 +531,11 @@ footer {
 
     /* PRODUCT PAGE STYLING, DEKSTOP */
 
+    .productImageAndText, .color-price, .productpage, .product-img-container2 {
+        margin-left: 4rem;
+        margin-right: 4rem;
+    }
+
     .product-info-section {
         margin-bottom: 3rem; 
     }
@@ -538,6 +543,7 @@ footer {
     .productImageAndText {
         flex-direction: row;
         align-items: flex-start;
+        margin-top: 5rem;
     }
 
     .product-img-container2 {

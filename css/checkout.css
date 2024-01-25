@@ -1,11 +1,6 @@
 
 
 
-.header-checkout h2, .checkout-text h2 {
-    margin: 2.5rem 3rem 1rem 3rem;
-    font-weight: 300;
-}
-
 .basketProduct-container, .summary-ship, .summary-total, .formContainer {
     margin-left: 3rem;
     margin-right: 3rem;
@@ -84,6 +79,11 @@ input[type="radio"]:checked {
 
 .shippingPrice {
     float: right;
+}
+
+.checkout-text h2 {
+    margin: 2.5rem 3rem 1rem 3rem;
+    font-weight: 300;
 }
 
 .payment-options {
