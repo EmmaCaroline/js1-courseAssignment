@@ -1,7 +1,7 @@
 
 
 
-.productImageAndText, .color-price, .productpage, .product-img-container2 {
+.productImageAndText {
     margin-left: 3rem;
     margin-right: 3rem;
 }
@@ -44,12 +44,10 @@
 
 .color-rainjacket {
     color: grey;
-    margin-left: 3rem;
 }
 
 .price-rainjacket {
     font-size: 1rem;
-    margin-right: 3rem;
 }
 
 .product-img-container2 {

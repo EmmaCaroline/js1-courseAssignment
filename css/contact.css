@@ -51,6 +51,7 @@ input, textarea {
 .btn button {
     background-color: #FFFFFF;
     color: var(--color-primary);
+    border: 3px solid var(--btn-color);
     font-weight: 500;
 }
 
