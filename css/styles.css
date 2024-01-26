@@ -197,7 +197,6 @@ li:last-child a {
     color: var(--color-secondary);
     font-weight: 300;
     font-size: 0.8rem;
-    letter-spacing: 0.02em;
 }
 
 /* BUTTON STYLING */

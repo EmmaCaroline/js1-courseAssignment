@@ -29,7 +29,6 @@ h2, h3 {
 
 p {
     font-family: var(--font-roboto);
-    letter-spacing: 0.02em; 
     font-weight: 400;
     font-size: 0.875rem;
 }
