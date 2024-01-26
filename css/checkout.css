@@ -1,5 +1,13 @@
 
+/* THIS PAGE CONTAINS THE STYLING OF MAIN CONTENT ON "checkout.html" */
 
+/* Reused CSS from other stylesheets:
+.info-part       (found in: "jacketCategories.css")
+.info-desk       (found in: "jacketCategories.css")
+.formContainer   (found in: "contact.css")
+.formHeader      (found in: "contact.css")
+.btn             (found in: "contact.css")
+*/
 
 .basketProduct-container, .summary-ship, .summary-total, .formContainer {
     margin-left: 3rem;
@@ -52,8 +60,8 @@ input[type="text"]:active, input[type="radio"]:active {
 }
   
 input[type="radio"] {
-    width: 20px;
-    height: 20px;
+    width: 1.25rem;
+    height: 1.25rem;
     border: 2px solid #000000;
     border-radius: 50%;
     cursor: pointer;

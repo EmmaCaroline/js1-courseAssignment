@@ -79,19 +79,19 @@
     position: absolute;
     background-color: #F9F9F9;
     text-align: center;
-    min-width: 100px; /**/
+    min-width: 6.25rem;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    padding: 8px;
+    padding: 0.5rem;
     z-index: 1;
 }
 
 .sizesDropdown::after {
     content: "\25BC";
-    font-size: 12px;
-    margin-left: 5px;
-    padding: 4px;
+    font-size: 0.75rem;
+    margin-left: 0.313rem;
+    padding: 0.25rem;
     border: 1px solid #cccccc;
-    border-radius: 3px;
+    border-radius: 0.188;
 }
 
 .sizesDropdown.active .sizesDropdown-content {

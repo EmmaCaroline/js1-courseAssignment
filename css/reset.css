@@ -19,7 +19,6 @@ body {
 h1, h2, h3 {
     font-family: var(--font-outfit);
     letter-spacing: 0.05em;
-    /*text-transform: uppercase;*/
 }
 
 h2, h3 {

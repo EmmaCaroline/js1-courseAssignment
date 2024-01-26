@@ -1,6 +1,13 @@
 
 /* THIS PAGE CONTAINS THE STYLING OF MAIN CONTENT ON "rainjackets.html", "softshell.html", and "sale.html" */
 
+/* Reused CSS from other stylesheets:
+.product-img-container     (found in: "home.css")
+.product-img-wrapper       (found in: "home.css")
+.textAndIcon               (found in: "home.css")
+
+*/
+
 .info-part .info-desk {
     display: none;
 }
