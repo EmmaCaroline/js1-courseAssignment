@@ -11,7 +11,5 @@ The cart is non-functional as no Javascript is used for this, but is there to to
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - HTML
 - CSS
