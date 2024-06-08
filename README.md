@@ -1,4 +1,4 @@
-# js1-courseAssignment
+# Cross-Course Project (Design, HTML & CSS)
 
 Rainy Days site improved and updated from my delivery in the HTML/CSS course. 
 
